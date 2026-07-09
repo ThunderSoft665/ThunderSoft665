@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Benjamin James: ThunderSoft! a Computer engineer & Technician, currently striving into becoming a software enginner, a pythonista, conversent with frameworks and libraries like Django, Docker, markup languages like html & css, vanilla css & figma, bash scripting, linux user, AI enthusiatic, AI is the future: Claude, Zapier, Notion: AI for Graphics Design & video editing, Landing pages, webpages, automation & workflow... Open for job while still learning and building traditionally and manually. whatsapp:08169660626
 
 <!--
 **ThunderSoft665/ThunderSoft665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
